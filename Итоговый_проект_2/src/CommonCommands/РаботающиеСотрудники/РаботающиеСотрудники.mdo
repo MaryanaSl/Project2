@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="db0ee251-0f5e-430e-96d8-6baddeba94f3">
+  <name>РаботающиеСотрудники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работающие сотрудники</value>
+  </synonym>
+  <group>CommandGroup.БыстрыйДоступ</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>

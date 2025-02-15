@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b65ddfa-a262-4b9a-aa92-cfd057dbcf60">
+  <producedTypes>
+    <objectType typeId="5b215ede-6f6f-416d-9e03-8136e301a381" valueTypeId="9c476e39-51c1-42a0-957b-db7dfbfea134"/>
+    <managerType typeId="6cd98bf9-7a83-4f6c-a1e9-19bd7df9ce90" valueTypeId="35e61707-0b88-492b-a4ce-b6b8aeab4e71"/>
+  </producedTypes>
+  <name>ДвиженияТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Движения товаров</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ДвиженияТоваров.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="84b2cb36-5b85-4c85-b8db-4db832500e58">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>

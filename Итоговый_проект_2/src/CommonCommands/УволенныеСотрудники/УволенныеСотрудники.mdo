@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="08a0c0ba-e0cd-4dab-97c0-25b8a9a2fdf1">
+  <name>УволенныеСотрудники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уволенные сотрудники</value>
+  </synonym>
+  <group>CommandGroup.БыстрыйДоступ</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>

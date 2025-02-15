@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="de609baf-1320-4c02-995f-df94aa0e71df">
+  <name>УправлениеИТФирмой</name>
+  <synonym>
+    <key>ru</key>
+    <value>Управление ИТ Фирмой</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c07a7a39-5119-44a1-a188-8ee402c5e2fa"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="8e4c422f-4cd0-4700-864e-2eb9b40ae850"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="ddf86249-0530-449f-be01-1854f10b9c21"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="4b8ddcd4-ea3c-4862-a2ff-24ba0dc5f58c"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="418537c6-a908-45b6-a861-0987714907bc"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="1451f0b8-22c5-4ead-bfec-b12393374c34"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="eaa7e989-ec88-4013-90c9-89f8cfa93b0f"/>
+  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.ПолныеПрава</defaultRoles>
+  <vendor>ЦОО &quot;Нетология&quot;</vendor>
+  <version>1.0.0.1</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <briefInformation>
+    <key>ru</key>
+    <value>Курс &quot;1С-разработчик с нуля до middle&quot;</value>
+  </briefInformation>
+  <detailedInformation>
+    <key>ru</key>
+    <value>Дипломный проект для курса &quot;1С-разработчик с нуля до middle&quot; </value>
+  </detailedInformation>
+  <logo/>
+  <splash/>
+  <copyright>
+    <key>ru</key>
+    <value>2023 ООО &quot;ЦОО Нетология&quot;</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://netology/ru</value>
+  </vendorInformationAddress>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.20</compatibilityMode>
+  <languages uuid="d4bcee79-aba6-4368-9335-02165a3cc3ca">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Закупки</subsystems>
+  <subsystems>Subsystem.Продажи</subsystems>
+  <subsystems>Subsystem.Отчетность</subsystems>
+  <subsystems>Subsystem.Справочники</subsystems>
+  <subsystems>Subsystem.КадровыйУчет</subsystems>
+  <subsystems>Subsystem.Настройки</subsystems>
+  <subsystems>Subsystem.Сделки</subsystems>
+  <subsystems>Subsystem.Деньги</subsystems>
+  <sessionParameters>SessionParameter.ТекущийСотрудник</sessionParameters>
+  <roles>Role.ПолныеПрава</roles>
+  <roles>Role.БазовыеПрава</roles>
+  <commonModules>CommonModule.РаботаСИНН</commonModules>
+  <commonModules>CommonModule.ВидимостьКПП</commonModules>
+  <commonModules>CommonModule.ЦеныСервер</commonModules>
+  <commonModules>CommonModule.ЦеныВызовСервера</commonModules>
+  <commonModules>CommonModule.НДСКлиентСервер</commonModules>
+  <functionalOptions>FunctionalOption.ВестиРасчетЗрплаты</functionalOptions>
+  <definedTypes>DefinedType.Сумма</definedTypes>
+  <definedTypes>DefinedType.Количество</definedTypes>
+  <commonCommands>CommonCommand.ОстаткиПоСкладам</commonCommands>
+  <commonCommands>CommonCommand.Печать</commonCommands>
+  <commonCommands>CommonCommand.ПечатьНаПринтер</commonCommands>
+  <commonCommands>CommonCommand.ПечатьСПредпросмотром</commonCommands>
+  <commonCommands>CommonCommand.УволенныеСотрудники</commonCommands>
+  <commonCommands>CommonCommand.РаботающиеСотрудники</commonCommands>
+  <commonCommands>CommonCommand.НастройкаПрограммы</commonCommands>
+  <commandGroups>CommandGroup.Печать</commandGroups>
+  <commandGroups>CommandGroup.БыстрыйДоступ</commandGroups>
+  <constants>Constant.ВестиРасчетЗарплаты</constants>
+  <commonForms>CommonForm.НастройкаПрограммы</commonForms>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.НоменклатурныеГруппы</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ЗаказПоставщику</documents>
+  <documents>Document.ЗаказыПокупателей</documents>
+  <documents>Document.УстановкаЦен</documents>
+  <documents>Document.УстановкаСкидок</documents>
+  <documents>Document.ПоступлениеТоваровИУслуг</documents>
+  <documents>Document.РеализацияТоваровИУслуг</documents>
+  <documents>Document.ПоступлениеДенежныхСредств</documents>
+  <documents>Document.СписаниеДенежныхСредств</documents>
+  <documentJournals>DocumentJournal.ЦеныИСкидки</documentJournals>
+  <documentJournals>DocumentJournal.Сделки</documentJournals>
+  <documentJournals>DocumentJournal.Деньги</documentJournals>
+  <enums>Enum.ЮридическоеФизическоеЛицо</enums>
+  <enums>Enum.Пол</enums>
+  <enums>Enum.ТипыНоменклатуры</enums>
+  <enums>Enum.СтавкиНДС</enums>
+  <reports>Report.ОстаткиПоСкладам</reports>
+  <reports>Report.ОтчетПоПродажам</reports>
+  <reports>Report.ВзаиморасчетыСКонтрагентами</reports>
+  <reports>Report.ДвиженияТоваров</reports>
+  <reports>Report.ДоходыИРасходы</reports>
+  <informationRegisters>InformationRegister.Цены</informationRegisters>
+  <informationRegisters>InformationRegister.Скидки</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВзаиморасчетыСКонтрагентами</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Расходы</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Доходы</accumulationRegisters>
+</mdclass:Configuration>
