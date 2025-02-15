@@ -25,7 +25,7 @@
 + Документ Установка цен. 
  + Форма документа
 
-   1111c80fb82604ea24a940ccc04d9b4e431db2333f9080d46aec09f7cfae48d1.png![image](https://github.com/user-attachments/assets/97522641-9c65-4914-bb67-e09d0039bee7)
+ [image](https://github.com/user-attachments/assets/97522641-9c65-4914-bb67-e09d0039bee7)
  + Модуль формы:
    
    ```bsl
