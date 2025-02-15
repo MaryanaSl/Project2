@@ -657,7 +657,7 @@
 
 ![image](https://github.com/user-attachments/assets/8c4acfcd-5532-4b98-8ebc-5767108ec897)
 
-4. Реализлванные отчеты:
+4. Реализованные отчеты:
 
 + Взаиморасчеты с контрагентами
 ![image](https://github.com/user-attachments/assets/17934b58-3efb-40ac-85a0-b000ca9a4d61)
