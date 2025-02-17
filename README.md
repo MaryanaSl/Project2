@@ -42,21 +42,3 @@
 
 Отчеты по взаиморасчетам, движению товаров, доходам и расходам.
 
-
-4. Реализованные отчеты:
-
-+ Взаиморасчеты с контрагентами
-![image](https://github.com/user-attachments/assets/17934b58-3efb-40ac-85a0-b000ca9a4d61)
-
-+ Движения товаров
-
-![image](https://github.com/user-attachments/assets/a739a910-fce0-44c6-b273-15d2afb8f6c5)
-
-+ Доходы и расходы
-
-![image](https://github.com/user-attachments/assets/a4ecc6b0-6d34-4311-a96d-f57c44032c74)
-
-
-
-
-   
